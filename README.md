@@ -1,3 +1,7 @@
+
+Course  Mini Project | Putting It All Together  Putting The Basics In Place  Deploy the application to Heroku 3rd Video
+
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome BonnieMcb,
